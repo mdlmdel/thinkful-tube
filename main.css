@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  letter-spacing: 0.5px;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+h1 {
+  margin-bottom: 0px;
+}
+
+#search-input {
+  width: 310px;
+}
+
+button {
+  background: #e52d27;
+  color: #ffffff;
+  letter-spacing: 0.5px;
+  font-weight: bold;
+  padding: 5px;
+}
+
+button, input[type="text"] {
+  padding: 5px;
+}
+
+button:hover {
+  cursor: pointer;
+  background: #b31217;
+}
+
+#results {
+  list-style: none;
+}
