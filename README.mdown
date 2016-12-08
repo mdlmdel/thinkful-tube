@@ -1,5 +1,0 @@
-# Thinkful Tube: a search form using the YouTube API
-
-This is a YouTube search form app designed and built using the YouTube API, AJAX, jQuery, JavaScript, HTML, and CSS. The form allows users to search YouTube videos and displays 5 video results matching the search. The results appear as thumbnails linking to the videos. 
-
--MdL

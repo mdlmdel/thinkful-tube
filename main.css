@@ -3,7 +3,8 @@
 }
 
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: "nyt-cheltenham",georgia,"times new roman",times,serif;
+  color: #333;
   letter-spacing: 0.5px;
 }
 
@@ -21,7 +22,7 @@ h1 {
 }
 
 button {
-  background: #e52d27;
+  background: #6288a5;
   color: #ffffff;
   letter-spacing: 0.5px;
   font-weight: bold;
@@ -34,7 +35,7 @@ button, input[type="text"] {
 
 button:hover {
   cursor: pointer;
-  background: #b31217;
+  background: #4e6c84;
 }
 
 #results {
